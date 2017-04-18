@@ -5,6 +5,8 @@
 __A somewhat basic English translation for Puyo Puyo Tetris on the Nintendo 3DS.__
 
 
+[More info here](https://gbatemp.net/threads/wip-puyo-puyo-tetris-english-translation-looking-for-help.434967/)
+
 
 
 ## Installation Instructions:
