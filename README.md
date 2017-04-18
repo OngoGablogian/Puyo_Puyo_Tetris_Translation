@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # Puyo Puyo Tetris English Translation for 3DS
 
 *by. Ongo_Gablogian*
