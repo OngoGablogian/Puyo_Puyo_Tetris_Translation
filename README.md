@@ -32,7 +32,7 @@ __Build As A CIA:__
 - Rebuild as a CIA and install.
 
 
-__BootNTR & LayeredFS:__
+__BootNTR & LayeredFS/OnionFS:__
 
 - Place the proper LayeredFS file (either v1.0 or v1.1 depending on your game update version) in "SD:/plugin/0004000000101200/". 
 
