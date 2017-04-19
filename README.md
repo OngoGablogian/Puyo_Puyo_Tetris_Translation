@@ -38,4 +38,4 @@ __BootNTR & LayeredFS/OnionFS:__
 
 - Rename the "Translated Files" folder to "PuyoPuyoTetris" and place it on the root of your SD. 
 
-- [OnionFS](https://github.com/mariohackandglitch/OnionFS) can be substituted for LayeredFS if desired. The paths default path is "SD:/OnionFS/0004000000101200/romfs/".
+- [OnionFS](https://github.com/mariohackandglitch/OnionFS) can be substituted for LayeredFS if desired. The default path is "SD:/OnionFS/0004000000101200/romfs/".
