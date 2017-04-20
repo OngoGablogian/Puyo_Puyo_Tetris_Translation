@@ -39,3 +39,10 @@ __BootNTR & LayeredFS/OnionFS:__
 - Rename the "Translated Files" folder to "PuyoPuyoTetris" and place it on the root of your SD. 
 
 - [OnionFS](https://github.com/mariohackandglitch/OnionFS) can be substituted for LayeredFS if desired. The default path is "SD:/OnionFS/0004000000101200/romfs/".
+
+
+## Credits:
+
+- @Nagato on GBAtemp for his work on "CTPK Tool", without that this project wouldn't exist.
+- @sj33 & @Zander1995 on GBAtemp for helping with some of the translations.
+- All the homebrew devs that've made Translations and ROM hacks possible.
