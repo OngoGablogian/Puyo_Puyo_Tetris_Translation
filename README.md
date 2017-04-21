@@ -46,3 +46,4 @@ __BootNTR & LayeredFS/OnionFS:__
 - @Nagato on GBAtemp for his work on "CTPK Tool", without that this project wouldn't exist.
 - @sj33 & @Zander1995 on GBAtemp for helping with some of the translations.
 - All the homebrew devs that've made Translations and ROM hacks possible.
+- __Last but not least SEGA. Please go buy the official English localization on PS4 or Switch.__
