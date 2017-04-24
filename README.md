@@ -42,11 +42,12 @@ __BootNTR & LayeredFS/OnionFS:__
 
 __HANS__
 
-- It's compatible. Google's your friend here.
+- It's compatible.
 
 ## Credits:
 
-- @Nagato on GBAtemp for his work on "CTPK Tool", without it this project wouldn't exist.
+- @Nagato on GBAtemp for his work on "CTPK Tool". Without it this project wouldn't exist.
+- @DarkSynopsis on GBAtemp for figuring out how to edit the non-graphical text (as well as translating some of it).
 - @sj33 & @Zander1995 on GBAtemp for helping with some of the translations.
 - All the homebrew devs that've made Translations and ROM hacks possible.
 - __Last but not least SEGA. Please go buy the official English localization on PS4 or Switch.__
