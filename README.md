@@ -4,10 +4,7 @@
 
 *by. Ongo Gablogian*
 
-__A somewhat basic English translation of Puyo Puyo Tetris for the Nintendo 3DS.__
-
-
-[More info here.](https://gbatemp.net/threads/wip-puyo-puyo-tetris-english-translation-looking-for-help.434967/)
+### [More info here.](https://gbatemp.net/threads/wip-puyo-puyo-tetris-english-translation-looking-for-help.434967/)
 
 
 
@@ -38,7 +35,7 @@ __BootNTR & LayeredFS/OnionFS:__
 
 - Rename the "Translated Files" folder to "PuyoPuyoTetris" and place it on the root of your SD. 
 
-- [OnionFS](https://github.com/mariohackandglitch/OnionFS) can be substituted for LayeredFS if desired. The default path is "SD:/OnionFS/0004000000101200/romfs/".
+- [OnionFS](https://github.com/mariohackandglitch/OnionFS) can be substituted for LayeredFS if desired. The default path for the translated files is "SD:/OnionFS/0004000000101200/romfs/".
 
 __HANS__
 
@@ -47,7 +44,7 @@ __HANS__
 ## Credits:
 
 - @Nagato on GBAtemp for his work on "CTPK Tool". Without it this project wouldn't exist.
-- @DarkSynopsis on GBAtemp for figuring out how to edit the non-graphical text (as well as translating some of it).
+- @DarkSynopsis on GBAtemp for figuring out how to edit the non-graphical text (as well as translating almost all of it).
 - @sj33 & @Zander1995 on GBAtemp for helping with some of the translations.
 - All the homebrew devs that've made Translations and ROM hacks possible.
 - __Last but not least SEGA. Please go buy the official English localization on PS4 or Switch.__
