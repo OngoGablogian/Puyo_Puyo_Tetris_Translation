@@ -1,10 +1,9 @@
 ![Logo](logo.png)
 
-# Puyo Puyo Tetris English Translation for 3DS
+# Puyo Puyo Tetris English - Translation for 3DS
 
-*by. Ongo Gablogian*
 
-### [More info here.](https://gbatemp.net/threads/wip-puyo-puyo-tetris-english-translation-looking-for-help.434967/)
+### [More info here.](https://gbatemp.net/threads/wip-puyo-puyo-tetris-english-translation-for-3ds.434967/)
 
 
 
