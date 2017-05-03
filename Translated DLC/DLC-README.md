@@ -10,4 +10,4 @@
 8. Copy and replace the files from the "DLC files" folder.
 9. Run "4_Build_DLC.bat".
 10. Run "5_Build_CIA.bat".
-11. Intall and Enjoy.
+11. Install and Enjoy.
