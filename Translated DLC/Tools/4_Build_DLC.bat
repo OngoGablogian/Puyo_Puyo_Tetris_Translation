@@ -5,3 +5,7 @@ DEL contents_0010_00000010\romfs.bin
 3dstool -cvtf romfs contents_0011_00000011/romfs.bin --romfs-dir contents_0011_00000011/romfs
 3dstool -cvtf cfa contents.0011.00000011 --header contents_0011_00000011/ncch.header --romfs contents_0011_00000011/romfs.bin
 DEL contents_0011_00000011\romfs.bin
+
+3dstool -cvtf romfs contents_0012_00000012/romfs.bin --romfs-dir contents_0012_00000012/romfs
+3dstool -cvtf cfa contents.0012.00000012 --header contents_0012_00000012/ncch.header --romfs contents_0012_00000012/romfs.bin
+DEL contents_0012_00000012\romfs.bin

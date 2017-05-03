@@ -7,3 +7,8 @@ md contents_0011_00000011
 3dstool -xvtf cfa contents.0011.00000011 --header contents_0011_00000011/ncch.header --romfs contents_0011_00000011/romfs.bin
 3dstool -xvtf romfs contents_0011_00000011/romfs.bin --romfs-dir contents_0011_00000011/romfs
 DEL contents_0011_00000011\romfs.bin
+
+md contents_0012_00000012
+3dstool -xvtf cfa contents.0012.00000012 --header contents_0012_00000012/ncch.header --romfs contents_0012_00000012/romfs.bin
+3dstool -xvtf romfs contents_0012_00000012/romfs.bin --romfs-dir contents_0012_00000012/romfs
+DEL contents_0012_00000012\romfs.bin
