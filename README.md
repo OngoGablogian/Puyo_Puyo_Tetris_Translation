@@ -45,5 +45,6 @@ __HANS__
 - @Nagato on GBAtemp for his work on "CTPK Tool". Without it this project wouldn't exist.
 - @DarkSynopsis on GBAtemp for figuring out how to edit the non-graphical text (as well as translating almost all of it).
 - @sj33 & @Zander1995 on GBAtemp for helping with some of the translations.
+- @onepiecefreak for the Kukkii plguin that supports the "comp" images.
 - All the homebrew devs that've made Translations and ROM hacks possible.
 - __Last but not least SEGA. Please go buy the official English localization on PS4 or Switch.__
